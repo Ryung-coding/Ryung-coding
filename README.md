@@ -15,19 +15,17 @@
 <br/> <br/> 
 2021.03.02 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Seoul National University of Science and Technology | Major : Mechanical System Design Engineering 🔧
 <br/> <br/> 
-2022.04.11 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Joined Mobile Robot Research Institute (MRL) 👉<a href="https://mrl.seoultech.ac.kr/index.do">[SEOULTECH MRL]</a>
+2022.04.11 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Joined Mobile Robot Research Institute (MRL) 👉 <a href="https://mrl.seoultech.ac.kr/index.do">[SEOULTECH MRL]</a>
 <br/>
 <br/> 
-💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
+📄 My Papers 📄 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
- 🎥 My video ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[Ryung's home]</a>
+"Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[paper link]</a>
 <br/> <br/> 
-🤳 My account  ㅤ| ㅤ👉🏻  <a href="https://www.instagram.com/ryung_official/">[instagram]</a>
-<br/> <br/> 
-👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  <a href="https://ryung-lab.notion.site/Ryung-s-LAB-b479d7a127e441a9bb0b32c8d52f48ea">[Ryung's LAB]</a>
-<br/>
-<br/> 
+"Hardware and Control Method for Counter-rotating Coaxial Multirotor "   ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
+<br/> <br/>
+ 
 💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
@@ -36,6 +34,8 @@
 🤳 My account  ㅤ| ㅤ👉🏻  <a href="https://www.instagram.com/ryung_official/">[instagram]</a>
 <br/> <br/> 
 👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  <a href="https://ryung-lab.notion.site/Ryung-s-LAB-b479d7a127e441a9bb0b32c8d52f48ea">[Ryung's LAB]</a>
+<br/>
+<br/>
 <br/>
 <br/>
 <a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryung-coding&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>ㅤㅤㅤㅤㅤㅤㅤㅤ <a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryung-coding&layout=compact&theme=dark&hide_border=true" /></a>
