@@ -2,7 +2,7 @@
 <br/><br/>
 <img src="https://ryung-lab.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F66526435-28f0-4b66-b95f-d057d2702e4b%2FUntitled.png?id=bde6cf86-7cb2-4990-8e48-2323a8d73b9e&table=block&spaceId=5928c9b4-fc01-4de3-a0d5-47b0faef430f&width=2000&userId=&cache=v2" width="200" height="200" align="left" hspace="5" vspace="5">
 | ㅤName 🧑‍ ㅤ| ㅤShin Han-ryung <br/><br/>
-| ㅤAge 💀 ㅤㅤ| ㅤ22 (born 2022) <br/><br/>
+| ㅤAge 💀 ㅤㅤ| ㅤ22 (born 2002) <br/><br/>
 | ㅤE-mail 📧 ㅤ| ㅤryung9514@naver.com <br/><br/>
 | ㅤState 🌏ㅤㅤ|ㅤ Republic of Korea (ROK)
 <br/><br/> </p>
