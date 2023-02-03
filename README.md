@@ -28,15 +28,6 @@
 👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  [Ryung's LAB](https://ryung-lab.notion.site/Ryung-s-LAB-b479d7a127e441a9bb0b32c8d52f48ea)
 <br/>
 <br/> 
-💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
-<br/>
-<br/>
- 🎥 My video ㅤㅤ| ㅤ👉🏻  [Ryungㅇ's home](https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ)
-<br/> <br/> 
-🤳 My account  ㅤ| ㅤ👉🏻  [ㅇ](https://www.instagram.com/ryung_official/)
-<br/> <br/> 
-👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  [Ryunㅇg's LAB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09407765)
-<br/>
 <br/>
 <br/>
 <br/>
