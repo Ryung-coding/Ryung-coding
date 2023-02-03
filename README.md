@@ -31,11 +31,11 @@
 💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
- 🎥 My video ㅤㅤ| ㅤ👉🏻  [Ryung's home](https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ)
+ 🎥 My video ㅤㅤ| ㅤ👉🏻  [Ryungㅇ's home](https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ)
 <br/> <br/> 
-🤳 My account  ㅤ| ㅤ👉🏻  [instagram](https://www.instagram.com/ryung_official/)
+🤳 My account  ㅤ| ㅤ👉🏻  [ㅇ](https://www.instagram.com/ryung_official/)
 <br/> <br/> 
-👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  [Ryung's LAB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09407765)
+👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  [Ryunㅇg's LAB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09407765)
 <br/>
 <br/>
 <br/>
