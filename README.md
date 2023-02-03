@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="100" height="200">
+<img src="https://avatars.githubusercontent.com/u/99808176?v=4" width="100" height="100">
 
 👨‍🎓 Record 👨‍🎓 --------------------------------------------------------------------------------------------------------------------------------------
 <br/>
