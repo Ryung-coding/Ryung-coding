@@ -1,5 +1,5 @@
 
-<img src="[https://avatars.githubusercontent.com/u/99808176?v=4](https://ryung-lab.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb53b7a64-9f0e-440e-b559-8c129177b6cc%2F%25EB%25B0%25B0%25EA%25B2%25BD%25ED%2599%2594%25EB%25A9%25B4.png?table=block&id=b479d7a1-27e4-41a9-bb0b-32c8d52f48ea&spaceId=5928c9b4-fc01-4de3-a0d5-47b0faef430f&width=2000&userId=&cache=v2)" width="1000" height="500">
+<img src="(https://ryung-lab.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb53b7a64-9f0e-440e-b559-8c129177b6cc%2F%25EB%25B0%25B0%25EA%25B2%25BD%25ED%2599%2594%25EB%25A9%25B4.png?table=block&id=b479d7a1-27e4-41a9-bb0b-32c8d52f48ea&spaceId=5928c9b4-fc01-4de3-a0d5-47b0faef430f&width=2000&userId=&cache=v2)" width="1000" height="500">
 
 👨‍🎓 Record 👨‍🎓 --------------------------------------------------------------------------------------------------------------------------------------
 <br/>
