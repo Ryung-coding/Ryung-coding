@@ -1,4 +1,4 @@
-👾 About me 👾-----------------------------------------------------------------------------------------------------------------------------------
+👾 About me 👾
 <br/><br/>
 <img src="https://ryung-lab.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F66526435-28f0-4b66-b95f-d057d2702e4b%2FUntitled.png?id=bde6cf86-7cb2-4990-8e48-2323a8d73b9e&table=block&spaceId=5928c9b4-fc01-4de3-a0d5-47b0faef430f&width=2000&userId=&cache=v2" width="200" height="200" align="left" hspace="5" vspace="5">
 | ㅤName 🧑‍ ㅤ| ㅤShin Han-ryung <br/><br/>
@@ -8,7 +8,7 @@
 <br/><br/> </p>
 
 <br/> 
-👨‍🎓 Record 👨‍🎓 --------------------------------------------------------------------------------------------------------------------------------------
+👨‍🎓 Record 👨‍🎓 
 <br/>
 <br/>
 2018.03.02 ~ 2021.03.02ㅤ:ㅤ  Graduated from Sejong Science High School 📚 
@@ -18,7 +18,7 @@
 2022.04.11 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Joined Mobile Robot Research Institute (MRL) 👉 <a href="https://mrl.seoultech.ac.kr/index.do">[SEOULTECH MRL]</a>
 <br/>
 <br/> 
-📄 My Papers 📄 ---------------------------------------------------------------------------------------------------------------------------
+📄 My Papers 📄 
 <br/>
 <br/>
 "Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[paper link]</a>
@@ -26,7 +26,7 @@
 "Hardware and Control Method for Counter-rotating Coaxial Multirotor "   ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
 <br/> <br/>
  
-💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
+💻 Activity & Study 💻 
 <br/>
 <br/>
  🎥 My video ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[Ryung's home]</a>
@@ -38,5 +38,5 @@
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryung-coding&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>ㅤㅤㅤㅤㅤㅤㅤㅤ <a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryung-coding&layout=compact&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryung-coding&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>ㅤㅤㅤ <a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryung-coding&layout=compact&theme=dark&hide_border=true" /></a>
 
