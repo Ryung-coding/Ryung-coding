@@ -29,7 +29,7 @@
 💻 Activity & Study 💻 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
- 🎥 My video ㅤㅤ| ㅤ👉🏻  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09407765">[Ryung's home]</a>
+ 🎥 My video ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[Ryung's home]</a>
 <br/> <br/> 
 🤳 My account  ㅤ| ㅤ👉🏻  <a href="https://www.instagram.com/ryung_official/">[instagram]</a>
 <br/> <br/> 
