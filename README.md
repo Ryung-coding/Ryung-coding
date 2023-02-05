@@ -21,7 +21,7 @@
 📄 My Papers 📄 
 <br/>
 <br/>
-"Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤㅤ| ㅤ👉🏻  <a href="https://www.youtube.com/channel/UCc9LB4PyAS6IN5NbVJkC0cQ">[paper link]</a>
+"Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤㅤ| ㅤ👉🏻  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
 <br/> <br/> 
 "Hardware and Control Method for Counter-rotating Coaxial Multirotor "   ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
 <br/> <br/>
