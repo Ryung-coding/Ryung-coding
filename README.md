@@ -13,7 +13,8 @@
 <br/>
 2018.03.02 ~ 2021.03.02ㅤ:ㅤ  Graduated from Sejong Science High School 📚 
 <br/> <br/> 
-2021.03.02 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Seoul National University of Science and Technology | Major : Mechanical System Design Engineering 🔧
+2021.03.02 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Seoul National University of Science and Technology<br/> 
+ㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤMajor : Mechanical System Design Engineering 🔧
 <br/> <br/> 
 2022.04.11 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Joined Mobile Robot Research Institute (MRL) 👉 <a href="https://mrl.seoultech.ac.kr/index.do">[SEOULTECH MRL]</a>
 <br/>
