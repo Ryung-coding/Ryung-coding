@@ -22,15 +22,15 @@
 📄 My Papers 📄 
 <br/>
 <br/>
-"Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤㅤ| ㅤ👉🏻  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
+"Difficulty in ground ball defense in baseball games after rain" ㅤ ㅤ  ㅤ ㅤ          ㅤ| ㅤ👉🏻  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
 <br/> <br/> 
-"Hardware and Control Method for Counter-rotating Coaxial Multirotor "   ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
+"Hardware and Control Method for Counter-rotating Coaxial Multirotor "            ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11168399">[paper link]</a>
 <br/> <br/>
 "Extremum-seeking Control-based Model-free Flight Control of Top-loading Fully-actuated Cargo
 <br/>
-Transportation Multirotor UAV Platform " | ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11466967 ">[paper link]</a>
+Transportation Multirotor UAV Platform "               | ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11466967 ">[paper link]</a>
 <br/> <br/>
-"Compliance Control-Based HRI Flight Control for Cargo Transportation Multirotor "   ㅤ| ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480192">[paper link]</a>
+"Compliance Control-Based HRI Flight Control for Cargo Transportation Multirotor "               | ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480192">[paper link]</a>
 <br/> <br/>
  
 💻 Activity & Study 💻 
