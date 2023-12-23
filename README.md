@@ -1,6 +1,6 @@
 👾 About me 👾
 <br/><br/>
-<img src="https://www.notion.so/ryung-lab/1371a65f731746cca48f6fb246016913?pvs=4#27ad527b1ffa4c38be74c2382aa262e5" width="200" height="200" align="left" hspace="5" vspace="5">
+
 | ㅤName 🧑‍ ㅤ| ㅤShin Han-ryung <br/><br/>
 | ㅤAge 💀 ㅤㅤ| ㅤ22 (born 2002) <br/><br/>
 | ㅤE-mail 📧 ㅤ| ㅤryung9514@naver.com <br/><br/>
