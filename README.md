@@ -43,6 +43,3 @@ Transportation Multirotor UAV Platform "               | ㅤ👉🏻 <a href="ht
 👨🏻‍🏫 My blog  ㅤ ㅤ | ㅤ👉🏻  <a href="https://ryung-lab.notion.site/Ryung-s-LAB-b479d7a127e441a9bb0b32c8d52f48ea">[Ryung's LAB]</a>
 <br/>
 <br/>
-
-<a href="https://github.com/Ryung-coding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryung-coding&layout=compact&theme=dark&hide_border=true" /></a>
-
