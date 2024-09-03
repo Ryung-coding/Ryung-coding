@@ -36,7 +36,9 @@ Transportation Multirotor UAV Platform "               | ㅤ👉🏻 <a href="ht
 <br/> <br/>
 "Compliance Control-Based HRI Flight Control for Cargo Transportation Multirotor "               | ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480192">[paper link]</a>
 <br/> <br/>
- 
+ "Rocket Attitude Kalman Filter based on Dynamic Experimental Model using Low-Cost IMU sensor "               | ㅤ👉🏻 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11855806">[paper link]</a>
+<br/> <br/>
+<br/> 
 💻 Activity & Study 💻 
 <br/>
 <br/>
