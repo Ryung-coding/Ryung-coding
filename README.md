@@ -19,7 +19,7 @@
 2022.04.11 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Joined Mobile Robot Research Institute (MRL) 👉 <a href="https://mrl.seoultech.ac.kr/index.do">[SEOULTECH MRL]</a>
 <br/>
 <br/> 
-2024.09.05 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Center for Healthcare Robotics, Artificial Intelligence and Robotics Institute, <br/><br/>
+2024.09.05 ~ 2024.12.18ㅤ: ㅤ Center for Healthcare Robotics, Artificial Intelligence and Robotics Institute,<br/> 
                             ㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤ Korea Institute of Science and Technology (KIST) 
 <br/> 
 <br/> 
