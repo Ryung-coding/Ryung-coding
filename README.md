@@ -20,7 +20,7 @@
 <br/>
 <br/> 
 2024.09.05 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Center for Healthcare Robotics, Artificial Intelligence and Robotics Institute, <br/><br/>
-                             Korea Institute of Science and Technology (KIST) 
+                            ㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤ Korea Institute of Science and Technology (KIST) 
 <br/> 
 <br/> 
 📄 My Papers 📄 
