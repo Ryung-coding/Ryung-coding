@@ -2,7 +2,7 @@
 <br/><br/>
 
 | ㅤName 🧑‍ ㅤ| ㅤShin Han-ryung <br/><br/>
-| ㅤAge 💀 ㅤㅤ| ㅤ23 (born 2002) <br/><br/>
+| ㅤAge 💀 ㅤㅤ| ㅤ24 (born 2002) <br/><br/>
 | ㅤE-mail 📧 ㅤ| ㅤryung9514@naver.com <br/><br/>
 | ㅤState 🌏ㅤㅤ|ㅤ Republic of Korea (ROK)
 <br/><br/> </p>
